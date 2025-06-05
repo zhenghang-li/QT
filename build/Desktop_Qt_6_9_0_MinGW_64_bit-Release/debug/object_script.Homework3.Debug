@@ -1,0 +1,10 @@
+debug/connectionitem.o
+debug/main.o
+debug/mainwindow.o
+debug/moduleitem.o
+debug/scenewidget.o
+debug/moc_dataholder.o
+debug/moc_infopanel.o
+debug/moc_mainwindow.o
+debug/moc_moduleitem.o
+debug/moc_scenewidget.o

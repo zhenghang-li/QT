@@ -1,0 +1,10 @@
+release/connectionitem.o
+release/main.o
+release/mainwindow.o
+release/moduleitem.o
+release/scenewidget.o
+release/moc_dataholder.o
+release/moc_infopanel.o
+release/moc_mainwindow.o
+release/moc_moduleitem.o
+release/moc_scenewidget.o
